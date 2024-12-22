@@ -1,3 +1,5 @@
+package com.snhu.appointment;
+
 import java.util.Date;
 import java.util.HashMap;
 import java.util.Map;

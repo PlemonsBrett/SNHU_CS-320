@@ -1,3 +1,5 @@
+package com.snhu.task;
+
 public class Task {
     private final String taskId;
     private String name;

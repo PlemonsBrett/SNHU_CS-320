@@ -1,3 +1,5 @@
+package com.snhu.appointment;
+
 import java.util.Date;
 
 public class Appointment {
@@ -33,7 +35,6 @@ public class Appointment {
         return description;
     }
 
-    // Setters for mutable fields
     // Setters for mutable fields
     public void setAppointmentDate(Date appointmentDate) {
         validateAppointmentDate(appointmentDate);

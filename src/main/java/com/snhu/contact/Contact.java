@@ -1,3 +1,4 @@
+package com.snhu.contact;
 
 public class Contact {
     private final String contactId;

@@ -1,3 +1,5 @@
+package com.snhu.appointment;
+
 import java.util.Calendar;
 import java.util.Date;
 

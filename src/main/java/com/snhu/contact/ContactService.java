@@ -1,8 +1,10 @@
+package com.snhu.contact;
+
 import java.util.HashMap;
 import java.util.Map;
 
 public class ContactService {
-    private Map<String, Contact> contacts = new HashMap<>();
+    private final Map<String, Contact> contacts = new HashMap<>();
 
     public void addContact(Contact contact) {
         if (contact == null) {
